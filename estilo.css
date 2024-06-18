@@ -227,7 +227,7 @@ h5{
 .linha2{
     position: relative;
     color: rgb(0, 0, 0);
-    border-left: 5px solid;
+    border-left: 3px solid;
     left: 90%;
     width: 0;
     height:25vh;
@@ -425,9 +425,9 @@ button,.botao2{
     height: 100vh;
   }
   .h4{
-    font-size: 25vh;
+    font-size: 20vh;
     text-align: center;
-    left: 5%;
+    left: 10%;
   }
   .img3{
     width: 11%;
